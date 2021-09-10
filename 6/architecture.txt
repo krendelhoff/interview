@@ -1,0 +1,22 @@
+REST API                   <---------             Frontend
+
+----------------    backend start
+API Controller   (servant)
+
+	   |      
+     |			
+	   |    
+     \/   
+
+   Service
+
+	    |  
+	    |	
+	    |
+     \/   
+
+ Repositories
+----------------    backend end
+	     |	    (tcp)
+    	\/    
+	PostgreSQL Database
